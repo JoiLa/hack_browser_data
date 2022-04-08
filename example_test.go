@@ -1,8 +1,8 @@
-package main
+package hack_browser_data
 
 import (
-	`fmt`
-	`testing`
+	"fmt"
+	"testing"
 )
 
 type CookieParam struct {

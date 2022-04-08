@@ -1,11 +1,11 @@
-package main
+package hack_browser_data
 
 import (
-	`fmt`
+	"fmt"
 
 	"github.com/JoiLa/hack_browser_data/core"
 	"github.com/JoiLa/hack_browser_data/core/data"
-	`github.com/JoiLa/hack_browser_data/log`
+	"github.com/JoiLa/hack_browser_data/log"
 )
 
 /**
