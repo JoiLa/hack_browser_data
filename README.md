@@ -1,5 +1,10 @@
 特此鸣谢：[https://github.com/moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 
+# How to install
+
+```shell
+go get -u github.com/JoiLa/hack_browser_data
+```
 
 # HackBrowserData
 
